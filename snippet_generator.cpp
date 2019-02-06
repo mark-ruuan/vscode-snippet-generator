@@ -14,9 +14,9 @@ int main(){
     freopen("output.txt", "w", stdout);
     string name, prefix;
     // Give the name to your snippet manually
-    name = "signature";
+    name = "segment tree";
     // Type the prefix through which you want to call your snippet
-    prefix = "start";
+    prefix = "seg";
     prefix = '"' + prefix + '"';
     name = '"' + name + '"';
     cout << name << ": {" << endl;
