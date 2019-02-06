@@ -1,5 +1,5 @@
-"signature": {
-	"prefix": "start",
+"segment tree": {
+	"prefix": "seg",
 	"body": [
 		
 		"ll tree[4 * N];",
@@ -35,4 +35,4 @@
 		"}"
 
 	],
-	"description": "signature"
+	"description": "segment tree"
